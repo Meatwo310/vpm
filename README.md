@@ -1,4 +1,4 @@
-# Meatwo310 VPM Repository
+# vpm
 
 VPM repository listing for Meatwo310 packages.
 
