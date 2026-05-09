@@ -13,6 +13,7 @@
           "unity": "2022.3",
           "description": "NDMF component that disables marked GameObjects when building a VRChat avatar.",
           "url": "https://github.com/Meatwo310/hide-on-upload/releases/download/v0.1.0/net.meatwo310.hide-on-upload-0.1.0.zip",
+          "zipSHA256": "dc134209258619442297c4ef97601e3ab81394e1d787ad274626748e720e7f58",
           "author": {
             "name": "Meatwo310",
             "email": "vpm@meatwo310.net"
