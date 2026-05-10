@@ -1,0 +1,19 @@
+{
+  "name": "Meatwo310 VPM Repository",
+  "id": "net.meatwo310.vpm",
+  "url": "https://meatwo310.net/vpm/index.json",
+  "author": {
+    "email": "vpm@meatwo310.net",
+    "name": "Meatwo310",
+    "url": "https://meatwo310.net"
+  },
+  "description": "VPM repository listing for Meatwo310 packages.",
+  "infoLink": {
+    "url": "https://github.com/Meatwo310/vpm",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "Meatwo310/hide-on-upload"
+  ]
+}
